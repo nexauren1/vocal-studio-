@@ -52,7 +52,7 @@
     <string name="english">English</string>
     <string name="system_language">Use device language</string>
     <string name="privacy_title">Your audio stays yours</string>
-    <string name="privacy_body">Recordings stay in the app's private storage. Voxora does not upload your audio in this version.</string>
+    <string name="privacy_body">Recordings stay in private app storage. Voxora does not upload your audio in this version.</string>
     <string name="app_info">Voxora Studio · Early access build 0.1.0</string>
     <string name="by_nexauren">Made for singers by Nexauren</string>
     <string name="latest_take">LATEST TAKE</string>
